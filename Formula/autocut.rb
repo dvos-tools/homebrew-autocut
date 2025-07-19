@@ -1,10 +1,10 @@
 class Autocut < Formula
   desc "A background service for running shortcuts on schedule"
   homepage "https://github.com/dvos-tools/autocut"
-  version "0.1.1"
+  version "0.1.2"
   
-  url "https://github.com/dvos-tools/autocut/releases/download/v0.1.1/autocut-v0.1.1.tar.gz"
-  sha256 "8a2c0114c89409d8411203aba82f260084befe1ecd4af48d16ad5c41af213d9c"
+  url "https://github.com/dvos-tools/autocut/releases/download/v0.1.2/autocut-v0.1.2.tar.gz"
+  sha256 "449fbc9343db65b903e5d0f518aff908f55a8c3916db4a83f4e9c329e0518203"
   
   depends_on "node@22"
   depends_on "gum"
